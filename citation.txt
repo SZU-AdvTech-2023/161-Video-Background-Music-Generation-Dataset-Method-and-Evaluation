@@ -1,0 +1,7 @@
+@inproceedings{REPO161,
+    author = "Zhuo, Le and Wang, Zhaokai and Wang, Baisen and Liao, Yue and Bao, Chenxi and Peng, Stanley and Han, Songhao and Zhang, Aixi and Fang, Fei and Liu, Si",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "15637--15647",
+    title = "{Video Background Music Generation: Dataset, Method and Evaluation}",
+    year = "2023"
+}
